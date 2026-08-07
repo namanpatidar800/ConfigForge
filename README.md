@@ -147,7 +147,6 @@ npm run dev       # Starts Vite dev server at http://localhost:5173
 | Email | Password | Role |
 |---|---|---|
 | `admin@example.com` | `Admin@123` | `admin` |
-| `sales@example.com` | `Sales@123` | `sales_executive` |
 
 ---
 
